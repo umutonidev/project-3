@@ -1,0 +1,16 @@
+.nav{
+    display:flex;
+    background-color: blue;
+}
+.prof{
+    padding-left: 70%;
+    align-items: center;
+}
+.search{
+padding-left: 50%;
+position:absolute;
+align-items: center;
+}
+.big{
+     font-size:smaller ;
+}
